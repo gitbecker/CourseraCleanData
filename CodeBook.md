@@ -11,19 +11,32 @@ Data has been transformed as follows:
 
 VARIABLES  
 
-Variable Name			Detail  
+Variable Name
+        Detail		
 
-subject				An identifier of the subject who carried out the experiment. (1-30)  
-activity 			The activity being performed.  
-  
-tBodyAcc-mean-X 		Signals recorded. Format: [Domain][Signal]-[Calculation]-[direction]  
-tBodyAcc-mean-Y 		Domain:   
-tBodyAcc-mean-Z 			f - frequency  
-tBodyAcc-std-X 				t - time  
-tBodyAcc-std-Y 			Calculation:   
-tBodyAcc-std-Z 				mean - Mean Value  
-tGravityAcc-mean-X 			std - Standard Deviation.  
-tGravityAcc-mean-Y 		Direction: X, Y, Z  
+subject
+        An identifier of the subject who carried out the experiment. (1-30)  
+activity  
+        The activity being performed.  
+
+
+Signals recorded. Format: [Domain][Signal]-[Calculation]-[direction]  
+Domain:   
+     f - frequency  
+     t - time
+Calculation:   
+     mean - Mean Value  
+     std - Standard Deviation.  
+     Direction: X, Y, Z  
+
+tBodyAcc-mean-X 		
+tBodyAcc-mean-Y 		
+tBodyAcc-mean-Z 			
+tBodyAcc-std-X 				  
+tBodyAcc-std-Y 			
+tBodyAcc-std-Z 				
+tGravityAcc-mean-X 			
+tGravityAcc-mean-Y 		
 tGravityAcc-mean-Z   
 tGravityAcc-std-X   
 tGravityAcc-std-Y   
