@@ -2,11 +2,11 @@
 
 Original data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Data has been transformed as follows:
-	Test and training data merged.
-	Data other than mean and standard deviation for all signals has been removed.
-	Variable names updated as described below.
-	Data grouped by subject and activity and averaged.
+Data has been transformed as follows:  
+	Test and training data merged.  
+	Data other than mean and standard deviation for all signals has been removed.  
+	Variable names updated as described below.  
+	Data grouped by subject and activity and averaged.  
 	
 
 VARIABLES
